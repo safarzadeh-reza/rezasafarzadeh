@@ -1,10 +1,8 @@
-### Hi there 👋, I'm Masoud!
+### Hi there 👋, I'm Reza!
 <a href="https://www.linkedin.com/in/safarzadehreza/">
-  <img align="left" alt="Masoud's LinkedIN" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+  <img align="left" alt="Reza's LinkedIN" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
 </a>
-<!-- <a href="https://stackoverflow.com/users/6700019/masoud-rahimi">
-  <img align="left" alt="Masoud's StackOverflow" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" />
-</a> -->
+
 
 ![](https://komarev.com/ghpvc/?username=safarzadeh-reza)
 
